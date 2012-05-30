@@ -1,6 +1,7 @@
 # Private Chef Administration Guide
 
-This repository has the source material for the Private Chef Administration guide.
+<!-- This repository has the source material for the Private Chef Administration guide. -->
+このリポジとリーには、「Private Chef 管理ガイド」関するコードが記述されています。
 
 ## Prerequisites
 
